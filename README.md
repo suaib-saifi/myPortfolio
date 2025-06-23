@@ -1,12 +1,58 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using **React.js**, **HTML**, **CSS**, and **JavaScript**. This project showcases my skills, projects, and ways to connect with me.
 
-Currently, two official plugins are available:
+## 🔗 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit My Portfolio](https://my-portfolio-two-phi-39.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled.
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Vite** (or CRA, based on your setup)
+- **Vercel** (for deployment)
+
+---
+
+## 📸 Features
+
+- 🧑 About Me section  
+- 📚 Education & Skills  
+- 💼 Projects showcase with images  
+- 📬 Contact form  
+- 🎨 Responsive and modern UI  
+- 🌙 Dark mode (if implemented)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm or yarn
+  
+### Folder Structure
+├── public
+├── src
+│   ├── assets
+│   ├── components
+│   ├── pages
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+└── README.md
+
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
