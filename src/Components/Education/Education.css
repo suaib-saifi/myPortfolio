@@ -85,3 +85,11 @@
     gap: 30px;
   }
 }
+
+@media (max-width: 420px) {
+  .education-container {
+    flex-direction: column-reverse;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+}

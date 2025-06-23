@@ -183,3 +183,21 @@
     font-size: 12px;
   }
 }
+
+@media (max-width: 420px) {
+  .about-achievements {
+    justify-content: space-between;
+    gap: 10px;
+  }
+  .about-achievement {
+    gap: 10px;
+  }
+  .about-achievement h1 {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .about-achievement p {
+    text-align: center;
+    font-size: 10px;
+  }
+}

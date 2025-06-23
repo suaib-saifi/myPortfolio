@@ -118,3 +118,12 @@
     gap: 30px;
   }
 }
+
+@media (max-width: 420px) {
+  .services-container {
+    display: flex;
+    flex-direction: column-reverse;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+}
