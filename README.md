@@ -5,8 +5,6 @@
   <a href="https://my-portfolio-two-phi-39.vercel.app" target="_blank">🌐 View Live Site</a> •
   <a href="#-features">✨ Features</a> •
   <a href="#-getting-started">⚙️ Setup</a> •
-  <a href="#-custom-domain-setup">🌍 Domain</a> •
-  <a href="#-google-analytics-integration">📊 Analytics</a> •
   <a href="#-author">👨‍💻 Author</a>
 </p>
 
@@ -67,3 +65,25 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm run dev
+
+```
+
+
+📤 Deployment
+
+- Hosted on Vercel
+- Auto-deploy on main branch push
+
+
+👨‍💻 Author
+
+- Suaib Saifi
+- 🔗 Live Portfolio
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: linkedin.com/in/suaibsaifi
+
+
+## ⭐️ Show Your Support
+
+If you found this helpful, please ⭐️ the repository and share it!  
+Pull requests, suggestions, and feedback are always welcome.  
