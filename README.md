@@ -1,21 +1,24 @@
-# 🌐 Personal Portfolio Website
-
-Welcome to my personal portfolio website built using **React.js**, **HTML**, **CSS**, and **JavaScript**. This project showcases my skills, projects, and ways to connect with me.
-
-## 🔗 Live Site
-
-👉 [Visit My Portfolio](https://my-portfolio-two-phi-39.vercel.app/)
+<h1 align="center">🌟 Suaib Saifi - Portfolio Website 🌟</h1>
+<p align="center">
+  <b>A modern and responsive personal portfolio built using React.js</b><br/>
+  <a href="https://my-portfolio-two-phi-39.vercel.app" target="_blank">🌐 View Live Site</a> •
+  <a href="#-features">✨ Features</a> •
+  <a href="#-getting-started">⚙️ Setup</a> •
+  <a href="#-custom-domain-setup">🌍 Domain</a> •
+  <a href="#-google-analytics-integration">📊 Analytics</a> •
+  <a href="#-author">👨‍💻 Author</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **React.js**
-- **JavaScript (ES6+)**
 - **HTML5**
 - **CSS3**
-- **Vite** (or CRA, based on your setup)
-- **Vercel** (for deployment)
+- **JavaScript (ES6+)**
+- **Vite** (or Create React App)
+- **Vercel** for deployment
 
 ---
 
@@ -23,10 +26,10 @@ Welcome to my personal portfolio website built using **React.js**, **HTML**, **C
 
 - 🧑 About Me section  
 - 📚 Education & Skills  
-- 💼 Projects showcase with images  
+- 💼 Projects showcase with screenshots  
 - 📬 Contact form  
-- 🎨 Responsive and modern UI  
-- 🌙 Dark mode (if implemented)
+- 🎨 Responsive layout  
+- 🌙 Dark Mode Toggle (optional)
 
 ---
 
@@ -34,10 +37,13 @@ Welcome to my personal portfolio website built using **React.js**, **HTML**, **C
 
 ### Prerequisites
 
-- Node.js
+- Node.js installed
 - npm or yarn
-  
-### Folder Structure
+
+🧾 Folder Structure
+pgsql
+Copy
+Edit
 ├── public
 ├── src
 │   ├── assets
@@ -47,7 +53,6 @@ Welcome to my personal portfolio website built using **React.js**, **HTML**, **C
 │   └── index.js
 ├── package.json
 └── README.md
-
 
 ### Installation
 
