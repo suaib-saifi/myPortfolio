@@ -79,8 +79,8 @@ npm run dev
 
 - Suaib Saifi
 - 🔗 Live Portfolio
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: linkedin.com/in/suaibsaifi
+- 📧 Email: suaibsaifi971@gmail.com
+- 💼 LinkedIn: linkedin.com/in/suaib-saifi
 
 
 ## ⭐️ Show Your Support
